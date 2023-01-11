@@ -20,7 +20,7 @@ df = create_df(dataset_dir, csv_files)
 # open database connection
 database = "postgres"
 user = "weidb"
-password = "7b3tdKEkpVNP9gP"
+password = "xxx"
 host = "database-1.c4xtj4naopjn.us-east-1.rds.amazonaws.com"
 port = '5432'
 
